@@ -1,2 +1,2 @@
-# iTime-event-service
+# iTime-calendar-service
 Handles calendar events
